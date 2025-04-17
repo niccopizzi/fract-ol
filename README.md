@@ -37,6 +37,7 @@ This command will render the Julia Set. It accepts a second optional argument wh
 Here's an example
 ![Julia Set](https://github.com/niccopizzi/fract-ol/blob/main/images/Julia.png)
 
+---
 
 ### BURNING SHIP
 
